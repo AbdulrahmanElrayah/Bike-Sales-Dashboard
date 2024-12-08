@@ -6,4 +6,5 @@ This project demonstrates essential data analysis techniques in Excel, focusing 
 4. Table Conversion: Transformed the raw dataset into a structured Excel table.
 5. Data Analysis: Inserted a Pivot Table to uncover insights and create meaningful charts.
 6. Dashboard Creation: Designed an interactive dashboard with charts, slicers, and dynamic visuals based on Pivot Table outputs.
+   
 This repository highlights the power of Excel for effective data analysis and visualization.
